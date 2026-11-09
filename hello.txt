@@ -5,3 +5,4 @@ hello git! hello git world!
 hello git! hello git world!asd
 hello git! hello git world!
 hello git! hello git world! second commit!
+现在是fix-bug添加的
