@@ -7,3 +7,4 @@ hello git! hello git world!
 hello git! hello git world! second commit!
 现在是fix-bug添加的
 现在是master
+现在再次是fix-bug，弄分支冲突那块
