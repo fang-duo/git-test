@@ -9,3 +9,4 @@ hello git! hello git world! second commit!
 现在是master
 现在再次是fix-bug，弄分支冲突那块
 现在我在远程仓库进行修改，你如果git pull后能看到这段就说明你成功拉取了哈
+现在我进行ssh的一个的推送，从本地向远程
